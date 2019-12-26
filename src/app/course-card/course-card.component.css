@@ -1,0 +1,20 @@
+.course-card.beginner {
+  background: lightcyan;
+}
+
+.course-card.intermediate {
+  background: rgb(178, 224, 180);
+}
+
+.course-card.advanced {
+  background: rgb(238, 220, 169);
+}
+
+.category {
+  font-size: 0.7em;
+  background-color: azure;
+}
+
+.course-description {
+  margin-bottom: 15px;
+}
